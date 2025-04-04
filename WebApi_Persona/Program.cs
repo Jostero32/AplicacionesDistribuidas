@@ -7,14 +7,28 @@ using WebApi_Persona.Context;
 
 var builder = WebApplication.CreateBuilder(args);
 
-var connectionString = builder.Configuration.GetConnectionString("Connection");
-builder.Services.AddDbContext<AppDBContext>(options => options.UseSqlServer(connectionString));
+var connectionString = builder.Environment.IsDevelopment()? builder.Configuration.GetConnectionString("ConnectionDevelop"): builder.Configuration.GetConnectionString("Connection");
+
+
+builder.Services.AddDbContext<AppDBContext>(options => options.UseSqlServer(connectionString, sqlOptions => sqlOptions.EnableRetryOnFailure()));
 // Add services to the container.
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddAuthorization();
+
+
+//builder.Services.AddCors(options =>
+//{
+//    options.AddPolicy("AllowAll", policy =>
+//    {
+//        policy.AllowAnyOrigin()
+//              .AllowAnyMethod()
+//              .AllowAnyHeader();
+//    });
+//});
+
 
 builder.Services.AddSwaggerGen(c =>
 {
@@ -75,17 +89,25 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJw
 
 });
 
+//if (!builder.Environment.IsDevelopment())
+//{
+//    builder.Services.AddHttpsRedirection(options =>
+//    {
+//        options.HttpsPort = 5000; // O el puerto que uses para HTTPS
+//    });
+//}
+
 var app = builder.Build();
 
 
 // Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment())
-{
+//if (app.Environment.IsDevelopment()){
     app.UseSwagger();
     app.UseSwaggerUI();
-}
+//}
 
 
+app.Urls.Add("http://0.0.0.0:5000");
 
 app.UseHttpsRedirection();
 

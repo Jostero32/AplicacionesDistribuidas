@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\Usuario\Repositorios Git\AplicacionesDistribuidas\WebApi_Persona_Publicar</_PublishTargetUrl>
+    <History>True|2025-04-04T02:03:50.7022132Z||;True|2025-04-03T20:38:30.2306013-05:00||;True|2025-04-03T18:57:38.6075612-05:00||;True|2025-04-03T18:40:17.2895569-05:00||;True|2025-04-03T18:22:18.9599775-05:00||;True|2025-04-03T18:04:21.6138420-05:00||;True|2025-04-03T17:41:37.5470764-05:00||;True|2025-04-03T17:16:15.7136096-05:00||;True|2025-04-03T17:15:50.4162731-05:00||;True|2025-04-03T17:12:12.5107039-05:00||;True|2025-04-03T16:26:12.8597649-05:00||;True|2025-04-03T16:26:01.3157655-05:00||;True|2025-04-03T16:06:40.1628504-05:00||;True|2025-04-03T15:13:16.6833588-05:00||;True|2025-04-03T14:10:14.6802165-05:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
