@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\Usuario\\Repositorios Git\\AplicacionesDistribuidas\\WebApi_Persona\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5DD72E3D-D027-4413-907D-9D29063EFE3F}|WebApi_Persona.csproj|c:\\users\\usuario\\repositorios git\\aplicacionesdistribuidas\\webapi_persona\\tokenprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DD72E3D-D027-4413-907D-9D29063EFE3F}|WebApi_Persona.csproj|solutionrelative:tokenprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD72E3D-D027-4413-907D-9D29063EFE3F}|WebApi_Persona.csproj|c:\\users\\usuario\\repositorios git\\aplicacionesdistribuidas\\webapi_persona\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DD72E3D-D027-4413-907D-9D29063EFE3F}|WebApi_Persona.csproj|solutionrelative:models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD72E3D-D027-4413-907D-9D29063EFE3F}|WebApi_Persona.csproj|c:\\users\\usuario\\repositorios git\\aplicacionesdistribuidas\\webapi_persona\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DD72E3D-D027-4413-907D-9D29063EFE3F}|WebApi_Persona.csproj|solutionrelative:models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DD72E3D-D027-4413-907D-9D29063EFE3F}|WebApi_Persona.csproj|c:\\users\\usuario\\repositorios git\\aplicacionesdistribuidas\\webapi_persona\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DD72E3D-D027-4413-907D-9D29063EFE3F}|WebApi_Persona.csproj|solutionrelative:models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5DD72E3D-D027-4413-907D-9D29063EFE3F}|WebApi_Persona.csproj|c:\\users\\usuario\\repositorios git\\aplicacionesdistribuidas\\webapi_persona\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5DD72E3D-D027-4413-907D-9D29063EFE3F}|WebApi_Persona.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,10 +39,6 @@
       "RelativeMoniker": "D:0:0:{5DD72E3D-D027-4413-907D-9D29063EFE3F}|WebApi_Persona.csproj|solutionrelative:controllers\\pedidoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5DD72E3D-D027-4413-907D-9D29063EFE3F}|WebApi_Persona.csproj|c:\\users\\usuario\\repositorios git\\aplicacionesdistribuidas\\webapi_persona\\tokenprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5DD72E3D-D027-4413-907D-9D29063EFE3F}|WebApi_Persona.csproj|solutionrelative:tokenprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{5DD72E3D-D027-4413-907D-9D29063EFE3F}|WebApi_Persona.csproj|c:\\users\\usuario\\repositorios git\\aplicacionesdistribuidas\\webapi_persona\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5DD72E3D-D027-4413-907D-9D29063EFE3F}|WebApi_Persona.csproj|solutionrelative:controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -37,16 +49,16 @@
   ],
   "DocumentGroupContainers": [
     {
-      "Orientation": 0,
+      "Orientation": 1,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "DockedHeight": 200,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Repositorios Git\\AplicacionesDistribuidas\\WebApi_Persona\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -60,20 +72,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Repositorios Git\\AplicacionesDistribuidas\\WebApi_Persona\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Usuario\\Repositorios Git\\AplicacionesDistribuidas\\WebApi_Persona\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-03T23:14:26.006Z",
+              "DocumentIndex": 1,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Repositorios Git\\AplicacionesDistribuidas\\WebApi_Persona\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Repositorios Git\\AplicacionesDistribuidas\\WebApi_Persona\\Models\\Usuario.cs",
+              "RelativeToolTip": "Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T19:48:39.032Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Repositorios Git\\AplicacionesDistribuidas\\WebApi_Persona\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "Models\\Person.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Repositorios Git\\AplicacionesDistribuidas\\WebApi_Persona\\Models\\Person.cs",
+              "RelativeToolTip": "Models\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T19:48:38.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Repositorios Git\\AplicacionesDistribuidas\\WebApi_Persona\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Repositorios Git\\AplicacionesDistribuidas\\WebApi_Persona\\Models\\Cliente.cs",
+              "RelativeToolTip": "Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-06T19:48:36.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "PedidosController.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Repositorios Git\\AplicacionesDistribuidas\\WebApi_Persona\\Controllers\\PedidosController.cs",
               "RelativeDocumentMoniker": "Controllers\\PedidosController.cs",
@@ -85,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "ClientesController.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Repositorios Git\\AplicacionesDistribuidas\\WebApi_Persona\\Controllers\\ClientesController.cs",
               "RelativeDocumentMoniker": "Controllers\\ClientesController.cs",
@@ -97,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "UsuariosController.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Repositorios Git\\AplicacionesDistribuidas\\WebApi_Persona\\Controllers\\UsuariosController.cs",
               "RelativeDocumentMoniker": "Controllers\\UsuariosController.cs",
@@ -105,31 +143,17 @@
               "RelativeToolTip": "Controllers\\UsuariosController.cs",
               "ViewState": "AgIAACcAAAAAAAAAAAAtwD0AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-30T00:49:29.709Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-30T00:49:29.709Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Repositorios Git\\AplicacionesDistribuidas\\WebApi_Persona\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\Usuario\\Repositorios Git\\AplicacionesDistribuidas\\WebApi_Persona\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-29T23:47:45.198Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "TokenProvider.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Repositorios Git\\AplicacionesDistribuidas\\WebApi_Persona\\TokenProvider.cs",
               "RelativeDocumentMoniker": "TokenProvider.cs",
               "ToolTip": "C:\\Users\\Usuario\\Repositorios Git\\AplicacionesDistribuidas\\WebApi_Persona\\TokenProvider.cs",
               "RelativeToolTip": "TokenProvider.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAhwB4AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-30T00:14:22.479Z",
               "EditorCaption": ""
@@ -137,6 +161,30 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Repositorios Git\\AplicacionesDistribuidas\\WebApi_Persona\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Usuario\\Repositorios Git\\AplicacionesDistribuidas\\WebApi_Persona\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-03T23:14:26.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Repositorios Git\\AplicacionesDistribuidas\\WebApi_Persona\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Usuario\\Repositorios Git\\AplicacionesDistribuidas\\WebApi_Persona\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-29T23:47:45.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "PersonController.cs",
               "DocumentMoniker": "C:\\Users\\Usuario\\Repositorios Git\\AplicacionesDistribuidas\\WebApi_Persona\\Controllers\\PersonController.cs",
               "RelativeDocumentMoniker": "Controllers\\PersonController.cs",
