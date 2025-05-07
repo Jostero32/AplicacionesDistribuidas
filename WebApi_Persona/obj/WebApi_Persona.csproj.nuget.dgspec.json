@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Repositorios Git\\AplicacionesDistribuidas\\WebApi_Persona\\WebApi_Persona.csproj": {}
+    "C:\\Users\\User\\git\\AplicacionesDistribuidas\\WebApi_Persona\\WebApi_Persona.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Repositorios Git\\AplicacionesDistribuidas\\WebApi_Persona\\WebApi_Persona.csproj": {
+    "C:\\Users\\User\\git\\AplicacionesDistribuidas\\WebApi_Persona\\WebApi_Persona.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Repositorios Git\\AplicacionesDistribuidas\\WebApi_Persona\\WebApi_Persona.csproj",
+        "projectUniqueName": "C:\\Users\\User\\git\\AplicacionesDistribuidas\\WebApi_Persona\\WebApi_Persona.csproj",
         "projectName": "WebApi_Persona",
-        "projectPath": "C:\\Users\\Usuario\\Repositorios Git\\AplicacionesDistribuidas\\WebApi_Persona\\WebApi_Persona.csproj",
-        "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Repositorios Git\\AplicacionesDistribuidas\\WebApi_Persona\\obj\\",
+        "projectPath": "C:\\Users\\User\\git\\AplicacionesDistribuidas\\WebApi_Persona\\WebApi_Persona.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\git\\AplicacionesDistribuidas\\WebApi_Persona\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -44,7 +44,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -96,7 +97,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
